@@ -55,22 +55,6 @@ Users should be able to:
 - It's always a good idea to take some time to think through the best way to do the CSS format
 - Don't be afraid to use HTML tables especially for alignment of elements. They are easy to implement
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 ### Continued development
 
 I want to focus on implementing Javascript and Bootstrap into the website
@@ -83,7 +67,6 @@ I want to focus on implementing Javascript and Bootstrap into the website
 ## Author
 
 - Website - [Lloyd Dzinotyiwei](http://www.viltekconsulting.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@viltekC](https://www.twitter.com/ViltekC)
 
 ## Acknowledgments
